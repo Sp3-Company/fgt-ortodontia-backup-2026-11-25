@@ -3,8 +3,8 @@
 | Controle do documento | Informação |
 |---|---|
 | Responsável | Juan Lourenço, SP3 Company |
-| Versão | 1.0 |
-| Histórico | 25/11/2026 · Captura inicial do site público |
+| Versão | 1.1 |
+| Histórico | 1.1 · 25/11/2026 · Cópia do servidor e arquivo de componentes verificados. 1.0 · Captura inicial do site público |
 | Origem | [fgtortodontia.com.br](https://fgtortodontia.com.br/) |
 
 ## Capturas
@@ -24,10 +24,19 @@ Foram arquivadas 35 páginas públicas, incluindo a home, as páginas institucio
 | `wordpress-publico/` | Exportação da API pública com posts, páginas, termos e 78 registros de mídia visíveis |
 | `uploads/` | 293 arquivos públicos, incluindo imagens, vídeos e variantes de tamanho |
 | `recursos/` | Folhas de estilo, scripts, fontes e imagens coletados durante a navegação |
+| `codigo-verificado/` | Arquivos do núcleo e dos plugins do servidor que correspondem aos checksums oficiais |
 | `inventario/` | Sitemaps, mapa de páginas, verificação das capturas e relação de recursos |
 
 ## Abrir uma página arquivada
 
 No diretório do repositório, rode `python3 ferramentas/extrair-pagina.py inicio --destino /tmp/fgt-backup` e abra o arquivo `/tmp/fgt-backup/inicio.mhtml` no Chrome ou Edge. Para outras páginas, consulte o identificador no [índice](CAPTURAS.md). As capturas PNG preservam a referência visual da data. As imagens que o navegador não conseguiu renderizar estão listadas em `inventario/capturas.json`, no campo `broken` de cada resolução.
 
-Este acervo registra o conteúdo público disponível na data da captura. Uma restauração completa do WordPress exigiria o banco de dados do servidor, código-fonte instalado dos temas e plugins, além da configuração da hospedagem. Dados enviados por formulários, credenciais e dados administrativos estão fora deste backup. O acervo é mantido pela SP3 Company.
+## Código baixado do servidor
+
+O pacote público contém 7.411 arquivos da instalação com correspondência aos checksums oficiais do núcleo do WordPress 7.1.5 e de 15 plugins. A cópia integral da pasta do site foi preservada internamente pela SP3. Ela inclui o tema personalizado, o ACF PRO e a configuração original. Uma restauração completa também exige uma exportação do banco de dados e a configuração da hospedagem.
+
+- [Baixar os componentes verificados](codigo-verificado/wordpress-7.1.5-e-plugins.zip)
+- [Versões, escopo e SHA-256](codigo-verificado/manifesto.json)
+- [Verificação oficial do núcleo](https://developer.wordpress.org/cli/commands/core/verify-checksums/) e [verificação oficial de plugins](https://developer.wordpress.org/cli/commands/plugin/verify-checksums/)
+
+A exportação pública do conteúdo e as capturas históricas permanecem disponíveis nas pastas acima. O acervo é mantido pela SP3 Company.
