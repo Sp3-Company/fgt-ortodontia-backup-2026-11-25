@@ -1,0 +1,65 @@
+[
+  {
+    "id": 15,
+    "count": 1,
+    "description": "",
+    "link": "https://fgtortodontia.com.br/tag/contencao-ortodontica/",
+    "name": "Contenção Ortodôntica",
+    "slug": "contencao-ortodontica",
+    "taxonomy": "post_tag"
+  },
+  {
+    "id": 13,
+    "count": 2,
+    "description": "",
+    "link": "https://fgtortodontia.com.br/tag/tecnologia/",
+    "name": "Tecnologia",
+    "slug": "tecnologia",
+    "taxonomy": "post_tag"
+  },
+  {
+    "id": 14,
+    "count": 1,
+    "description": "",
+    "link": "https://fgtortodontia.com.br/tag/itero/",
+    "name": "Itero",
+    "slug": "itero",
+    "taxonomy": "post_tag"
+  },
+  {
+    "id": 12,
+    "count": 1,
+    "description": "",
+    "link": "https://fgtortodontia.com.br/tag/odontopediatria/",
+    "name": "Odontopediatria",
+    "slug": "odontopediatria",
+    "taxonomy": "post_tag"
+  },
+  {
+    "id": 9,
+    "count": 7,
+    "description": "Os alinhadores ortodônticos são <mark class=\"QVRyCf\">placas transparentes ou de copoliéster que corrigem os dentes de forma gradual, sem prejudicar a aparência do sorriso</mark>.",
+    "link": "https://fgtortodontia.com.br/tag/alinhadores/",
+    "name": "Alinhadores",
+    "slug": "alinhadores",
+    "taxonomy": "post_tag"
+  },
+  {
+    "id": 10,
+    "count": 8,
+    "description": "O aparelho ortodôntico é um dispositivo que corrige a posição dos dentes e maxilares. Podendo ser fixo ou removível, muito utilizado por ortodontistas para melhorar a estética do sorriso e a saúde bucal.",
+    "link": "https://fgtortodontia.com.br/tag/aparelhos-ortodonticos/",
+    "name": "Aparelhos Ortodônticos",
+    "slug": "aparelhos-ortodonticos",
+    "taxonomy": "post_tag"
+  },
+  {
+    "id": 8,
+    "count": 7,
+    "description": "Invisalign é um sistema de alinhadores ortodônticos transparentes e removíveis que corrige diversos problemas dentários, como desalinhamento, mordida cruzada e espaçamentos. Feitos sob medida, os alinhadores são praticamente imperceptíveis, oferecendo uma alternativa estética e confortável aos aparelhos fixos tradicionais. Além disso, permitem maior facilidade na higienização e não interferem na rotina alimentar.",
+    "link": "https://fgtortodontia.com.br/tag/invisalign/",
+    "name": "Invisalign",
+    "slug": "invisalign",
+    "taxonomy": "post_tag"
+  }
+]

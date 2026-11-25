@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "count": 9,
+    "description": "No meu blog, você encontra tudo sobre ortodontia e alinhadores invisíveis, desde os benefícios e cuidados até as últimas inovações no tratamento. Seu sorriso de forma discreta e eficiente, com dicas, novidades e informações detalhadas sobre as melhores opções de tratamentos ortodônticos para adultos e crianças.",
+    "link": "https://fgtortodontia.com.br/blog/",
+    "name": "Blog",
+    "slug": "blog",
+    "taxonomy": "category",
+    "parent": 0
+  }
+]

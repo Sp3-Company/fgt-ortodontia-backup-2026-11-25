@@ -1,0 +1,158 @@
+[
+  {
+    "id": 3,
+    "date": "2021-12-15T22:33:07",
+    "date_gmt": "2021-12-16T01:33:07",
+    "modified": "2022-04-08T11:31:01",
+    "modified_gmt": "2022-04-08T14:31:01",
+    "slug": "politica-de-privacidade",
+    "status": "publish",
+    "type": "page",
+    "link": "https://fgtortodontia.com.br/politica-de-privacidade/",
+    "title": {
+      "rendered": "Política de privacidade"
+    },
+    "content": {
+      "rendered": "\r\n<h3 class=\"wp-block-heading\"><strong>Informações do Usuário</strong></h3>\r\n<p>Suas informações são importantes, pois nos ajudam a tornar o site um lugar melhor e cada vez mais direcionado à você, usuário, na busca de sua total satisfação.</p>\r\n<p>Sua privacidade é nossa preocupação. Temos o compromisso de preservá-la.</p>\r\n<p>Nossa política de privacidade visa assegurar a garantia de que, quaisquer informações relativas aos usuários, não serão fornecidas, publicadas ou comercializadas em quaisquer circunstâncias. O Dr Felippe Gallego Tsujinaka obtém informações dos usuários de duas maneiras: Cadastro e Cookies.</p>\r\n<h3><strong>Cadastro</strong></h3>\r\n<p>Para usufruir dos benefícios adicionais do site e receber o e-mail com Novidades e Ofertas, você precisa se cadastrar no Dr Felippe Gallego Tsujinaka. Este cadastro é armazenado em um banco de dados protegido e sigiloso. Qualquer comunicação enviada para seu e-mail será através do boletim periódico do Dr Felippe Gallego Tsujinaka. Seu e-mail não será divulgado.</p>\r\n<h3><strong>Cookies</strong></h3>\r\n<p>O Dr Felippe Gallego Tsujinaka coleta informações através de cookies (informações enviadas pelo servidor do Dr Felippe Gallego Tsujinaka ao computador do usuário, para identificá-lo). Os cookies servem unicamente para controle interno de audiência e de navegação e jamais para controlar, identificar ou rastrear preferências do internauta, exceto quando este desrespeitar alguma regra de segurança ou exercer alguma atividade prejudicial ao bom funcionamento do site, como por exemplo, tentativas de hackear o serviço. A aceitação dos cookies pode ser livremente alterada na configuração de seu navegador.</p>\r\n<h3><strong>Segurança das Informações</strong></h3>\r\n<p>Todos os dados pessoais informados ao nosso site são armazenados em um banco de dados reservado e com acesso restrito a alguns funcionários habilitados, que são obrigados, por contrato, a manter a confidencialidade das informações e não utilizá-las inadequadamente. Assegurar a sua privacidade é mais um compromisso do Dr Felippe Gallego Tsujinaka com você!</p>\r\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Informações do Usuário Suas informações são importantes, pois nos ajudam a tornar o site um lugar melhor e cada vez mais direcionado à você, usuário, na busca de sua total satisfação. Sua privacidade é nossa preocupação. Temos o compromisso de preservá-la. Nossa política de privacidade visa assegurar a garantia de que, quaisquer informações relativas aos [&hellip;]</p>\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 7,
+    "template": ""
+  },
+  {
+    "id": 718,
+    "date": "2022-02-20T11:13:38",
+    "date_gmt": "2022-02-20T14:13:38",
+    "modified": "2025-03-26T17:32:51",
+    "modified_gmt": "2025-03-26T20:32:51",
+    "slug": "quem-sou-eu",
+    "status": "publish",
+    "type": "page",
+    "link": "https://fgtortodontia.com.br/quem-sou-eu/",
+    "title": {
+      "rendered": "Quem Sou Eu"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 1366,
+    "parent": 0,
+    "menu_order": 6,
+    "template": ""
+  },
+  {
+    "id": 720,
+    "date": "2022-02-20T11:13:38",
+    "date_gmt": "2022-02-20T14:13:38",
+    "modified": "2025-03-26T17:42:12",
+    "modified_gmt": "2025-03-26T20:42:12",
+    "slug": "a-clinica",
+    "status": "publish",
+    "type": "page",
+    "link": "https://fgtortodontia.com.br/a-clinica/",
+    "title": {
+      "rendered": "A Clínica"
+    },
+    "content": {
+      "rendered": "<p><span style=\"font-weight: 400;\">A nossa clínica odontológica, a Hori, hoje é uma das maiores clínicas odontológicas do Brasil e o nosso foco é o atendimento humanizado e a excelência. Seguindo a nossa filosofia de Tecnologia, Comodidade e Método criamos o modelo All in One na qual o paciente é tratado como um todo em todas as especialidades em um só lugar. Tanta dedicação e os belos resultados obtidos em nossos casos tornaram a clínica conhecida entre os famosos e influencers, hoje nossos amigos e pacientes. Mas se engana quem acha que ao longo do tempo perdemos a nossa essência, apenas ficamos conhecidos através do nosso trabalho e ela esta gravada em nosso DNA. Se você já é nosso paciente e nos acompanhou ao longo dos anos já deve ter ouvido essa história, mas se ainda não ouviu, venha nos conhecer de perto. Afinal,</span></p>\n<p><span style=\"font-weight: 400;\">Todo sorriso é bem-vindo.</span></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>A nossa clínica odontológica, a Hori, hoje é uma das maiores clínicas odontológicas do Brasil e o nosso foco é o atendimento humanizado e a excelência. Seguindo a nossa filosofia de Tecnologia, Comodidade e Método criamos o modelo All in One na qual o paciente é tratado como um todo em todas as especialidades em [&hellip;]</p>\n",
+      "protected": false
+    },
+    "featured_media": 1370,
+    "parent": 0,
+    "menu_order": 5,
+    "template": ""
+  },
+  {
+    "id": 722,
+    "date": "2022-02-20T11:13:38",
+    "date_gmt": "2022-02-20T14:13:38",
+    "modified": "2025-03-26T17:59:20",
+    "modified_gmt": "2025-03-26T20:59:20",
+    "slug": "invisalign",
+    "status": "publish",
+    "type": "page",
+    "link": "https://fgtortodontia.com.br/invisalign/",
+    "title": {
+      "rendered": "Invisalign"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 994,
+    "parent": 0,
+    "menu_order": 4,
+    "template": "page-invisalign.php"
+  },
+  {
+    "id": 724,
+    "date": "2022-02-20T11:13:38",
+    "date_gmt": "2022-02-20T14:13:38",
+    "modified": "2025-03-26T17:35:03",
+    "modified_gmt": "2025-03-26T20:35:03",
+    "slug": "contato",
+    "status": "publish",
+    "type": "page",
+    "link": "https://fgtortodontia.com.br/contato/",
+    "title": {
+      "rendered": "Contato"
+    },
+    "content": {
+      "rendered": "<h2>Informações, Dúvidas e Agendamentos</h2>\n<p>Horário de Atendimento<br />\nSeg. &#8211; Sex. 08:30 &#8211; 18:30h<br />\n<a href=\"https://api.whatsapp.com/send?phone=5511991437876&amp;text=Ol%C3%A1%20eu%20vim%20pelo%20site%20do%20Doutor%20Felippe%2C%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Invisalign.%20Obrigado\" target=\"_blank\" rel=\"noopener\">(11) 99143-7876</a><br />\n<a href=\"mailto:ortodontia@horiclinica.com.br,\">ortodontia@horiclinica.com.br</a></p>\n<p>      <ul class=\"socialMidia\">\n              <li>\n          <a href=\"https://www.youtube.com/channel/UCbdZ8VUtK3yx3_JQRrnX2Xw\" target=\"_blank\">\n            <i class=\"fab fa-youtube\" aria-hidden=\"true\"></i>          </a>\n        </li>\n              <li>\n          <a href=\"https://www.instagram.com/doctor.felippe/\" target=\"_blank\">\n            <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>          </a>\n        </li>\n              <li>\n          <a href=\"https://api.whatsapp.com/send?phone=5511991437876&text=Olá%20eu%20vim%20pelo%20site%20do%20Doutor%20Felippe%2C%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Invisalign.%20Obrigado\" target=\"_blank\">\n            <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i>          </a>\n        </li>\n          </ul>\n    </p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Informações, Dúvidas e Agendamentos Horário de Atendimento Seg. &#8211; Sex. 08:30 &#8211; 18:30h (11) 99143-7876 ortodontia@horiclinica.com.br</p>\n",
+      "protected": false
+    },
+    "featured_media": 994,
+    "parent": 0,
+    "menu_order": 3,
+    "template": "page-contato.php"
+  },
+  {
+    "id": 765,
+    "date": "2022-02-25T16:00:47",
+    "date_gmt": "2022-02-25T19:00:47",
+    "modified": "2024-12-13T15:01:22",
+    "modified_gmt": "2024-12-13T18:01:22",
+    "slug": "indicacao",
+    "status": "publish",
+    "type": "page",
+    "link": "https://fgtortodontia.com.br/indicacao/",
+    "title": {
+      "rendered": "Indicação"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 994,
+    "parent": 0,
+    "menu_order": 2,
+    "template": "page-indicacao.php"
+  }
+]
